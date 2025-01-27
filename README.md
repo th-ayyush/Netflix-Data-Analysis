@@ -1,4 +1,6 @@
 # Netflix Data Analysis
+![Description of Image](https://github.com/th-ayyush/SQL/blob/c79682f5182d32b1d3de2a8d348a215882f650fc/logo.png)
+
 
 This project focuses on analyzing Netflix metadata using SQL and CSV data. It includes:
 
